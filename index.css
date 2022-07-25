@@ -1,0 +1,40 @@
+#heading{
+    text-align: center;
+    padding: 1rem 0rem 2rem 0rem;
+    color: #F0F8FF;
+}
+#selection{
+    text-align: center;
+    padding: 1rem 0rem;
+    color: #F0F8FF;
+}
+#bigTestTube{
+    height : 21rem;
+    width : 12rem;
+    background-color: #F0F8FF;
+    margin-left: 42.5%;
+    border-radius: 0rem 0rem 3rem 3rem;
+    border : 0.5rem solid;
+    border-color : #77CCFF;
+    text-align: center;
+    display:inline-block;
+}
+#text1{
+    color: #55AAFF;
+}
+.smallTestTube{
+    height : 8rem;
+    width : 4rem;
+    background-color: #F0F8FF;
+    border-radius: 0rem 0rem 2rem 2rem;
+    border: 0.3rem solid;
+    border-color: #77CCFF;
+}
+.smallTestTube:hover{
+    box-shadow: 5px 5px 5px;
+    /* transition: box-shadow 0.3s ease-in-out; */
+}
+#text2{
+    color: #3388FF;
+    margin-top:50%;
+}
